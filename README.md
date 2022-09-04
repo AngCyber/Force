@@ -13,8 +13,15 @@ $ git pull
 $ pip install -r bahan.txt
 $ python force.py
 ```
+#### Update tools
+``` bash
+$ git clone https://github.com/AngCyber/Force
+$ cd Force
+$ git pull
+$ python force.py
+```
 #### Saran penggunaan
-```python
+``` python
 Disarankan menggunakan kartu baru atau kartu yang belum pernah dipakai untuk crack.
 Karena ip device nya masih aman, jadi kemungkinan besar mendapat akun OK
 ```
