@@ -13,6 +13,9 @@ $ git pull
 $ pip install -r bahan.txt
 $ python force.py
 ```
+#### Menu crack
+![IMG_20220904_225338](https://user-images.githubusercontent.com/92802033/188322439-7f05721d-3bb3-4b2e-af9d-9db106dc7fa6.jpg)
+
 #### Update tools
 ``` bash
 $ git clone https://github.com/AngCyber/Force
