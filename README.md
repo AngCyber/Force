@@ -10,7 +10,7 @@ $ git clone https://github.com/AngCyber/Force
 $ cd Force
 $ ls
 $ git pull
-$ pip install -r bahan.txt
+$ pip install -r requirements.txt
 $ python force.py
 ```
 #### Menu crack
