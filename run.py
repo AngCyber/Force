@@ -1,5 +1,5 @@
 import os
-from src import menu as Menu
+from data import login as Login
 
 try:os.mkdir("CP")
 except:pass
