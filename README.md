@@ -18,6 +18,7 @@ $ python run.py
 
 #### Update tools
 ``` bash
+$ rm -rf Force
 $ git clone https://github.com/AngCyber/Force
 $ cd Force
 $ git pull
