@@ -14,7 +14,8 @@ $ pip install -r requirements.txt
 $ python run.py
 ```
 #### Menu crack
-![IMG_20220904_225338](https://user-images.githubusercontent.com/92802033/188322439-7f05721d-3bb3-4b2e-af9d-9db106dc7fa6.jpg)
+![IMG_20220928_073345](https://user-images.githubusercontent.com/92802033/192662531-de525b8f-a615-460d-ae6e-ac99b648e928.jpg)
+
 
 #### Update tools
 ``` bash
@@ -24,6 +25,9 @@ $ cd Force
 $ git pull
 $ python run.py
 ```
+#### Results for crack
+![Screenshot_2022-09-28-03-24-15-19](https://user-images.githubusercontent.com/92802033/192662600-5a8e726c-12ad-4c09-baf3-13ef2c2f0eba.jpg)
+
 #### Saran penggunaan
 ``` python
 Disarankan menggunakan kartu baru atau kartu yang belum pernah dipakai untuk crack.
